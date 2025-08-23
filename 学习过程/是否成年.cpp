@@ -5,9 +5,9 @@ int main()
 	printf("What is your name?"); 
 	scanf("%d",&age);
 	if(age>=18)
-	printf("成年");
+	printf("鲁脡脛锚");
 	else
-	printf("未成年");
+	printf("脦麓鲁脡脛锚");
 	return 0;
 
 }
