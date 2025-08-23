@@ -2,18 +2,18 @@
 int main()
 {
 	int age = 0;
-	printf("ÊäÈëÒ»¸öÄêÁä\n");
+	printf("è¾“å…¥ä¸€ä¸ªå¹´é¾„\n");
 	scanf("%d",&age);
 	if(age<18)
-	printf("ÉÙÄê");
+	printf("å°‘å¹´");
 	else if(age<=44)
-	printf("ÇàÄê");
+	printf("é’å¹´");
 	else if(age<=59)
-	printf("ÖĞÀÏÄê");
+	printf("ä¸­è€å¹´");
 	else if(age<=89)
-	printf("ÀÏÄê");
+	printf("è€å¹´");
 	else
-	printf("ÀÏÊÙĞÇ");
+	printf("è€å¯¿æ˜Ÿ");
 	 
 	 
 	return 0;
