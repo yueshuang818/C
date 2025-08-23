@@ -6,10 +6,10 @@ int main()
 	double a,b,c;
 	double delta;
 	double complex x1,x2;
-	printf("Ò»Ôª¶ş´Î·½³ÌÒÔ½µÃİÅÅÁĞµÄË³ĞòµÄÏµÊıa£¬b£¬c,ÒÔ¿Õ¸ñ¸ô¿ª\n");
+	printf("ä¸€å…ƒäºŒæ¬¡æ–¹ç¨‹ä»¥é™å¹‚æ’åˆ—çš„é¡ºåºçš„ç³»æ•°aï¼Œbï¼Œc,ä»¥ç©ºæ ¼éš”å¼€\n");
 	scanf("%lf %lf %lf",&a,&b,&c);
 	if(a==0)
-	printf("Õâ²»ÊÇÒ»Ôª¶ş´Î·½³Ì");
+	printf("è¿™ä¸æ˜¯ä¸€å…ƒäºŒæ¬¡æ–¹ç¨‹");
 	else
 	{
 	delta =b*b-4*a*c;
